@@ -1,4 +1,4 @@
-# Content generation in the style of a given writer using gpt3.5 api
+# Content generation in the style of a given writer using gpt-4 api
 
 The repo contains a frontend react web app and the backed apis in fast api. 
 
